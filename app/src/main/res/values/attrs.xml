@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="customcircle">
+        <attr name="mstrokewidth" format="dimension" />
+        <attr name="textsize" format="dimension" />
+        <attr name="finished" format="float" />
+        <attr name="finishcolor" format="color"/>
+        <attr name="bgcolor" format="color"/>
+    </declare-styleable>
+</resources>
